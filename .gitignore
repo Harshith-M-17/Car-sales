@@ -1,0 +1,19 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+backend/uploads/
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# Downloaded demo photos (seed:demo)
+backend/.cache/
+
+# Next.js
+.next/
+next-env.d.ts
+*.tsbuildinfo

@@ -1,0 +1,788 @@
+[
+  {
+    "model": "maruti-suzuki/swift",
+    "file": "File:2020 Suzuki Swift Facelift IMG 3657.jpg",
+    "color": "Grey",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "maruti-suzuki/swift",
+    "file": "File:2020 Suzuki Swift Facelift IMG 3658.jpg",
+    "color": "Pearl White",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "maruti-suzuki/swift",
+    "file": "File:Suzuki Swift (2024) hybrid IMG 9686.jpg",
+    "color": "Blue",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "year": 2024
+  },
+  {
+    "model": "maruti-suzuki/swift",
+    "file": "File:2020 Suzuki Swift Facelift IMG 1880.jpg",
+    "color": "Red",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "maruti-suzuki/baleno",
+    "file": "File:2022 Maruti Suzuki Baleno Alpha (India) front view.jpg",
+    "color": "Dark Blue",
+    "author": "Milind Kwatra",
+    "license": "CC BY 3.0",
+    "year": 2022
+  },
+  {
+    "model": "maruti-suzuki/baleno",
+    "file": "File:2020 Suzuki Baleno GL 1.4 (front).jpg",
+    "color": "Grey",
+    "author": "Haysnawri10",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "maruti-suzuki/baleno",
+    "file": "File:2021 Suzuki Baleno.jpg",
+    "color": "Pearl White",
+    "author": "Haysnawri10",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "maruti-suzuki/dzire",
+    "file": "File:Maruti Suzuki Dzire VXi VVT - Subcompact Car - Kolkata 2018-01-17 7574.JPG",
+    "color": "Silver",
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "year": 2018
+  },
+  {
+    "model": "maruti-suzuki/dzire",
+    "file": "File:Suzuki Swift Dzire 1.2 GLX 2018 (40676203340).jpg",
+    "color": "Blue",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2018
+  },
+  {
+    "model": "maruti-suzuki/dzire",
+    "file": "File:Suzuki Swift Dzire 1.2 GL 2016.jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2016
+  },
+  {
+    "model": "maruti-suzuki/brezza",
+    "file": "File:2021 Suzuki Vitara Brezza VXI 01.jpg",
+    "color": "Pearl White",
+    "author": "Ravinder car teach",
+    "license": "CC BY 3.0",
+    "year": 2021
+  },
+  {
+    "model": "maruti-suzuki/brezza",
+    "file": "File:2016 Suzuki Vitara Brezza ZDi+ 1.3 YFB1S (20160821).jpg",
+    "color": "Blue",
+    "author": "オーバードライブ83",
+    "license": "CC BY-SA 4.0",
+    "year": 2016
+  },
+  {
+    "model": "maruti-suzuki/brezza",
+    "file": "File:2021 Suzuki Vitara Brezza VXI 02.jpg",
+    "color": "Pearl White",
+    "author": "Ravinder car teach",
+    "license": "CC BY 3.0",
+    "year": 2021
+  },
+  {
+    "model": "maruti-suzuki/ertiga",
+    "file": "File:2019 Suzuki Ertiga GX (Indonesia) front view.jpg",
+    "color": "Pearl White",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "year": 2019
+  },
+  {
+    "model": "maruti-suzuki/ertiga",
+    "file": "File:2022 Maruti Suzuki Ertiga LXi.jpg",
+    "color": "White",
+    "author": "Ramakrishna Mission Vidyapith",
+    "license": "Public domain",
+    "year": 2022
+  },
+  {
+    "model": "maruti-suzuki/ertiga",
+    "file": "File:2020 Suzuki Ertiga GX.jpg",
+    "color": "Maroon",
+    "author": "Chanokchon",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "maruti-suzuki/wagon-r",
+    "file": "File:2023 Maruti Suzuki Wagon R CBG.jpg",
+    "color": "Light Blue",
+    "author": "TTTNIS",
+    "license": "CC0",
+    "year": 2023
+  },
+  {
+    "model": "maruti-suzuki/wagon-r",
+    "file": "File:Maruti Wagon R Front.JPG",
+    "color": "Silver",
+    "author": "Ominae",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "maruti-suzuki/wagon-r",
+    "file": "File:2013 facelift Maruti Suzuki Wagon R (Mathura).jpg",
+    "color": "White",
+    "author": "Aleksandr Zykov from Russia",
+    "license": "CC BY-SA 2.0",
+    "year": 2013
+  },
+  {
+    "model": "hyundai/creta",
+    "file": "File:2021 Hyundai Creta SX(O) CRDi (India) front view.jpg",
+    "color": "Grey",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "hyundai/creta",
+    "file": "File:Hyundai Creta 1.5 GLS 2023 (1).jpg",
+    "color": "Pearl White",
+    "author": "Captainmorlypogi1959",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "hyundai/creta",
+    "file": "File:2021 Hyundai Creta 1.5 Trend (SU2id, Indonesia) front view 02.jpg",
+    "color": "Blue",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "hyundai/creta",
+    "file": "File:2021 Hyundai Creta 1.5 Prime (SU2id, Indonesia) front view 01.jpg",
+    "color": "Red",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "hyundai/venue",
+    "file": "File:2021 Hyundai Venue SE, front left, 08-24-2022.jpg",
+    "color": "Black",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "hyundai/venue",
+    "file": "File:2020 Hyundai Venue SEL, Front Left, 10-17-2020.jpg",
+    "color": "Grey",
+    "author": "SsmIntrigue",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "hyundai/venue",
+    "file": "File:2022 Hyundai Venue, front 11.30.21.jpg",
+    "color": "White",
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "hyundai/venue",
+    "file": "File:2020-21 Hyundai Venue High spec front view in Brunei.jpg",
+    "color": "Blue",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "hyundai/i20",
+    "file": "File:Hyundai i20 1.4 Value 2023 (53274259692).jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2023
+  },
+  {
+    "model": "hyundai/i20",
+    "file": "File:Hyundai i20 1.4 Plus 2024 (54215958992).jpg",
+    "color": "Red",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2024
+  },
+  {
+    "model": "hyundai/i20",
+    "file": "File:2017 Hyundai I20 Sport NAV MPi Coupe 1.25 Front.jpg",
+    "color": "White",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "year": 2017
+  },
+  {
+    "model": "hyundai/verna",
+    "file": "File:2020 Hyundai Verna Facelift China RC (2).jpg",
+    "color": "White",
+    "author": "Avante2025",
+    "license": "CC BY 4.0",
+    "year": 2020
+  },
+  {
+    "model": "hyundai/verna",
+    "file": "File:White 2016 Beijing Hyundai Verna (YC) China 2025-10-25 001.jpg",
+    "color": "Pearl White",
+    "author": "Avante2025",
+    "license": "CC BY 4.0",
+    "year": 2016
+  },
+  {
+    "model": "hyundai/verna",
+    "file": "File:Hyundai Verna RC Hatch Shishi 01 2022-10-10.jpg",
+    "color": "Silver",
+    "author": "JamesYoung8167",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "hyundai/grand-i10-nios",
+    "file": "File:Hyundai Grand i10 1.2 Plus 2022.jpg",
+    "color": "Grey",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2022
+  },
+  {
+    "model": "hyundai/grand-i10-nios",
+    "file": "File:Hyundai Grand i10 1.2 Design 2026.jpg",
+    "color": "Red",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "hyundai/grand-i10-nios",
+    "file": "File:2021 Hyundai Grand i10 sedan 1.2AT Base blue front view in Brunei.jpg",
+    "color": "Blue",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "hyundai/aura",
+    "file": "File:2022 Hyundai Grand i10 1.2 Value Sedan.jpg",
+    "color": "Dark Grey",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2022
+  },
+  {
+    "model": "hyundai/aura",
+    "file": "File:Hyundai Grand i10 Sedan 2022 (54232399920).jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2022
+  },
+  {
+    "model": "tata/nexon",
+    "file": "File:2023 Tata Nexon XZA+ front view.jpg",
+    "color": "Dark Blue",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "tata/nexon",
+    "file": "File:2018 Tata Nexon XM.jpg",
+    "color": "Red",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "year": 2018
+  },
+  {
+    "model": "tata/nexon",
+    "file": "File:Tata Nexon Blue Dual Tone.jpg",
+    "color": "Blue",
+    "author": "Keithkberger",
+    "license": "Public domain"
+  },
+  {
+    "model": "tata/nexon-ev",
+    "file": "File:2023 Tata Nexon XZA+ front view.jpg",
+    "color": "Dark Blue",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "tata/nexon-ev",
+    "file": "File:Tata Nexon Blue Dual Tone.jpg",
+    "color": "Blue",
+    "author": "Keithkberger",
+    "license": "Public domain"
+  },
+  {
+    "model": "tata/punch",
+    "file": "File:Tata Punch Camo spotted at Visakhapatnam.jpg",
+    "color": "Grey",
+    "author": "Adityamadhav83",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "tata/punch",
+    "file": "File:Tata punch.ev.jpg",
+    "color": "White",
+    "author": "VideshiBhaktNRI",
+    "license": "CC0"
+  },
+  {
+    "model": "tata/tiago",
+    "file": "File:2022 Tata Tiago XZA+ front 20230512.jpg",
+    "color": "Black",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "tata/tiago",
+    "file": "File:Tata tiago.jpg",
+    "color": "Grey",
+    "author": "Bharadwaj 7645",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "tata/tiago",
+    "file": "File:Tata Tiago (117).JPG",
+    "color": "Blue",
+    "author": "El monty",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/xuv700",
+    "file": "File:2023 Mahindra XUV700 AX7L front.jpg",
+    "color": "White",
+    "author": "LuvsMG481",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "mahindra/xuv700",
+    "file": "File:A black Mahindra XUV700 SUV in Ashiana Brahmananda, Jamshedpur, India (Ank Kumar, Infosys Limited) 02.jpg",
+    "color": "Black",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/thar",
+    "file": "File:Mahindra Thar Photoshoot at Perupalem Beach (West Godavari District, AP, India) Djdavid.jpg",
+    "color": "Black",
+    "author": "DjDavid1998",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/thar",
+    "file": "File:Mahindra Thar SUV in \"Red Rage\" color at Ashiana Brahmanda, East Singbhum India (Ank Kumar, Infosys limited) 02 (cropped).jpg",
+    "color": "Red",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/scorpio",
+    "file": "File:Mahindra Scorpio GLX 2015 (32224121468).jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2015
+  },
+  {
+    "model": "mahindra/scorpio",
+    "file": "File:Mahindra Scorpio S11 .jpg",
+    "color": "White",
+    "author": "devansh02",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/scorpio",
+    "file": "File:Mahindra Scorpio.jpg",
+    "color": "White",
+    "author": "rjstyles",
+    "license": "CC BY 2.0"
+  },
+  {
+    "model": "mahindra/bolero",
+    "file": "File:Mahindra Bolero Camper Front.JPG",
+    "color": "White",
+    "author": "Ominae",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mahindra/bolero",
+    "file": "File:Mahindra Bolero ZLX.jpg",
+    "color": "Grey",
+    "author": "RaNK001",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "model": "mahindra/bolero",
+    "file": "File:Mahindra Bolero GLX Front.JPG",
+    "color": "Silver",
+    "author": "Ominae",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "honda/city",
+    "file": "File:2023 Honda City e-HEV RS.jpg",
+    "color": "Pearl White",
+    "author": "Chanokchon",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "honda/city",
+    "file": "File:2026 Honda City e-HEV SV (Rear).jpg",
+    "color": "Black",
+    "author": "Chanokchon",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "honda/city",
+    "file": "File:Honda City IV Shishi 02 2022-06-15.jpg",
+    "color": "White",
+    "author": "JamesYoung8167",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "honda/city",
+    "file": "File:2020 Honda City e-HEV RS.jpg",
+    "color": "Blue",
+    "author": "Chanokchon",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "honda/amaze",
+    "file": "File:Honda Amaze India Side View.jpg",
+    "color": "Black",
+    "author": "Saiphani02",
+    "license": "CC0"
+  },
+  {
+    "model": "honda/amaze",
+    "file": "File:Honda Amaze 2018 (front) in Uttar Pradesh.jpg",
+    "color": "Red",
+    "author": "Agratsa",
+    "license": "CC BY-SA 4.0",
+    "year": 2018
+  },
+  {
+    "model": "honda/amaze",
+    "file": "File:Honda Amaze VX India (cropped).jpg",
+    "color": "Brown",
+    "author": "Saiphani02",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "toyota/innova-crysta",
+    "file": "File:Toyota Innova Crysta 2.4 Z front right.jpg",
+    "color": "Pearl White",
+    "author": "Premnath Kudva",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "toyota/innova-crysta",
+    "file": "File:Toyota Innova Crysta 2.4 Z side.jpg",
+    "color": "White",
+    "author": "Premnath Kudva",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "toyota/innova-crysta",
+    "file": "File:Toyota Innova Crysta.jpg",
+    "color": "Silver",
+    "author": "Abhishekptlbbk",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "toyota/fortuner",
+    "file": "File:2021 Toyota Fortuner SRZ 2.7 4x2 (Indonesia) front view 01.jpg",
+    "color": "Pearl White",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "toyota/fortuner",
+    "file": "File:Toyota Fortuner 4x4 Legender 2022 (2).jpg",
+    "color": "Silver",
+    "author": "Captainmorlypogi1959",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "toyota/fortuner",
+    "file": "File:Toyota Fortuner 4x2 Q Leader 2024 (1).jpg",
+    "color": "Black",
+    "author": "Captainmorlypogi1959",
+    "license": "CC BY-SA 4.0",
+    "year": 2024
+  },
+  {
+    "model": "toyota/glanza",
+    "file": "File:Toyota Glanza 2022 Facelift.jpg",
+    "color": "White",
+    "author": "AcrobatZ",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "toyota/glanza",
+    "file": "File:Toyota Glanza.jpg",
+    "color": "Blue",
+    "author": "YouTuber MK",
+    "license": "CC BY 3.0"
+  },
+  {
+    "model": "toyota/glanza",
+    "file": "File:Toyota Glanza (front).jpg",
+    "color": "White",
+    "author": "Agratsa",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "kia/seltos",
+    "file": "File:2021 Kia Seltos S AWD, rear6.21.20.jpg",
+    "color": "Blue",
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "kia/seltos",
+    "file": "File:2022 Kia Seltos SX, rear 6.21.22.jpg",
+    "color": "White",
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "kia/seltos",
+    "file": "File:Kia Seltos 1.5 EX 2024 (54412166735).jpg",
+    "color": "Grey",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "year": 2024
+  },
+  {
+    "model": "kia/seltos",
+    "file": "File:Kia Seltos 2024 3.jpg",
+    "color": "Red",
+    "author": "Ganesh Mohan T",
+    "license": "CC BY-SA 4.0",
+    "year": 2024
+  },
+  {
+    "model": "kia/sonet",
+    "file": "File:2022 Kia Sonet GLS 1.5AT red and black front view in Brunei.jpg",
+    "color": "Red",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "kia/sonet",
+    "file": "File:2022 Kia Sonet GL 1.5AT gray front view in Brunei.jpg",
+    "color": "Grey",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "kia/sonet",
+    "file": "File:2021 Kia Sonet 1.5 Premiere (Indonesia) front view.jpg",
+    "color": "Black",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "year": 2021
+  },
+  {
+    "model": "kia/sonet",
+    "file": "File:2022 Kia Sonet GLS 1.5AT silver and black front view in Brunei.jpg",
+    "color": "Silver",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "mg/hector",
+    "file": "File:MG Hector Diesel (India) front view.png",
+    "color": "Grey",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0"
+  },
+  {
+    "model": "mg/hector",
+    "file": "File:MG Hector Plus (India) front view (4).png",
+    "color": "Grey",
+    "author": "The Drivers Hub",
+    "license": "CC BY 3.0"
+  },
+  {
+    "model": "mg/hector",
+    "file": "File:MG Hector Plus (India) front view (1).png",
+    "color": "Silver",
+    "author": "The Drivers Hub",
+    "license": "CC BY 3.0"
+  },
+  {
+    "model": "skoda/slavia",
+    "file": "File:2021 Škoda Slavia 1.5 TSI Style (India) front view.png",
+    "color": "Red",
+    "author": "Athira Murali",
+    "license": "CC BY 3.0",
+    "year": 2021
+  },
+  {
+    "model": "skoda/slavia",
+    "file": "File:Skoda Slavia Side view.jpg",
+    "color": "Grey",
+    "author": "Saiphani02",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "volkswagen/virtus",
+    "file": "File:2023 Volkswagen Virtus Topline front 20230520.jpg",
+    "color": "White",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "volkswagen/virtus",
+    "file": "File:Volkswagen Virtus 1.6 MSi Trendline 2023.jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2023
+  },
+  {
+    "model": "volkswagen/virtus",
+    "file": "File:2023 Volkswagen Virtus Topline rear 20230520.jpg",
+    "color": "White",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "year": 2023
+  },
+  {
+    "model": "renault/kwid",
+    "file": "File:2021 Renault Kwid 1.0 Life.jpg",
+    "color": "Red",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2021
+  },
+  {
+    "model": "renault/kwid",
+    "file": "File:Renault Kwid Outsider 2020.jpg",
+    "color": "Silver",
+    "author": "Maxi-carp-99",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "renault/kwid",
+    "file": "File:Renault Kwid 1.0 Outsider 2022.jpg",
+    "color": "Silver",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "year": 2022
+  },
+  {
+    "model": "bmw/3-series",
+    "file": "File:BMW 3-Series (G20) 330 e (2020) (53334030393).jpg",
+    "color": "Blue",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "year": 2020
+  },
+  {
+    "model": "bmw/3-series",
+    "file": "File:BMW 3-Series (G20) 318 d (2024) (53953045039).jpg",
+    "color": "Black",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "year": 2024
+  },
+  {
+    "model": "bmw/3-series",
+    "file": "File:BMW 3-Series (G20) 330d (2020) (52184270321).jpg",
+    "color": "Dark Blue",
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "year": 2020
+  },
+  {
+    "model": "mercedes-benz/c-class",
+    "file": "File:Mercedes-Benz W206 IMG 4868.jpg",
+    "color": "Silver",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mercedes-benz/c-class",
+    "file": "File:Mercedes-Benz W206 C 300 4MATIC AMG Line Polar White (7).jpg",
+    "color": "White",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "model": "mercedes-benz/c-class",
+    "file": "File:2024 Mercedes-Benz W206 C180 Avantgarde in Mojave Silver, rear right, 07-10-2024.jpg",
+    "color": "Silver",
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "year": 2024
+  },
+  {
+    "model": "audi/q3",
+    "file": "File:2020 Audi Q3 S Line 35 TFSi MHEV S-A 1.5 Front.jpg",
+    "color": "White",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "year": 2020
+  },
+  {
+    "model": "audi/q3",
+    "file": "File:Audi Q3 F3 Sanming 01 2022-02-14.jpg",
+    "color": "Grey",
+    "author": "JamesYoung8167",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  },
+  {
+    "model": "audi/q3",
+    "file": "File:Audi Q3 F3 Shishi 01 2022-04-27.jpg",
+    "color": "Orange",
+    "author": "JamesYoung8167",
+    "license": "CC BY-SA 4.0",
+    "year": 2022
+  }
+]
