@@ -1,0 +1,77 @@
+# Free demo on Render: the website and the API. The database is MongoDB Atlas.
+#
+# Setup: Render dashboard > New > Blueprint > pick this repo. It asks for MONGODB_URI once.
+# Its database name must be carsales_demo, where the demo cars were seeded.
+#
+# Free services sleep after 15 minutes without traffic and take about a minute to wake.
+# Their disk resets on every sleep, restart and deploy, so a photo uploaded on the live demo
+# disappears then. The demo cars' photos survive because they are committed in backend/demo-media.
+
+services:
+  - type: web
+    name: carsales-demo-api
+    runtime: node
+    plan: free
+    region: singapore # Render's nearest region to the Atlas cluster in Mumbai
+    rootDir: backend
+    branch: master
+    buildCommand: npm ci && npm run build
+    startCommand: node dist/main.js
+    healthCheckPath: /api/health/ready
+    envVars:
+      - key: NODE_VERSION
+        value: 24.22.1
+      # Render defaults to production, where the API refuses MAIL_DRIVER=log. Render's free plan
+      # blocks the usual email ports, so password reset links go to the API log instead.
+      - key: NODE_ENV
+        value: development
+      - key: MAIL_DRIVER
+        value: log
+      # The test database package otherwise downloads MongoDB during npm ci.
+      - key: MONGOMS_DISABLE_POSTINSTALL
+        value: "1"
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_ACCESS_SECRET
+        generateValue: true
+      - key: INTERNAL_API_KEY
+        generateValue: true
+      # Two proxy hops, so rate limits apply per visitor. Check this after the first deploy.
+      - key: TRUST_PROXY
+        value: "2"
+      - key: CORS_ORIGINS
+        value: https://carsales-demo-web.onrender.com
+      - key: WEB_APP_URL
+        value: https://carsales-demo-web.onrender.com
+      - key: STORAGE_DRIVER
+        value: local
+      - key: LOCAL_UPLOAD_DIR
+        value: demo-media
+      - key: PUBLIC_MEDIA_BASE_URL
+        value: https://carsales-demo-api.onrender.com/uploads
+      - key: SWAGGER_ENABLED
+        value: "false"
+
+  - type: web
+    name: carsales-demo-web
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: web-next
+    branch: master
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /login
+    envVars:
+      - key: NODE_VERSION
+        value: 24.22.1
+      # Next reads these two while building.
+      - key: API_ORIGIN
+        value: https://carsales-demo-api.onrender.com
+      - key: NEXT_PUBLIC_API_URL
+        value: https://carsales-demo-api.onrender.com/api/v1
+      - key: INTERNAL_API_KEY
+        fromService:
+          type: web
+          name: carsales-demo-api
+          envVarKey: INTERNAL_API_KEY
